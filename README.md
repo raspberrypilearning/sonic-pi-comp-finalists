@@ -1,6 +1,10 @@
 # Sonic Pi Competition 2014 - 15 Semi Finalists
 
-In no particular order:
+To celebrate the launch of [Sonic Pi 2](http://www.raspberrypi.org/sonic-pi-comp-launch-2014/) we launched the inaugral Sonic Pi competition. We were looking for some of the best space-themed music, coded with Sonic Pi v2.0 by school children in the UK and we were not disapointed. 
+
+The competition was open to all pupils attending a UK school aged between 7 - 16 years and we placed all the entries into three categories (KS2 Primary, KS3 Middle School or Secondary, KS4 Secondary). As it turned out we had alot more primary entries than any other category, so we decided to simply select our favourite 10 from the lot!
+
+After a month of judging, we have whittled all the entries down to ust ten semi finalists. 
 
 1. **'One Small Step' by Helen Towers**
 
@@ -111,3 +115,5 @@ In no particular order:
   *After hearing about the Sonic Pi 2.0 competition we (three band members) decided this was an opportunity to put our coding skills to the test, and accelerate the journey to fame of our band, Absolute Magnitude. Based on Pachelbel's Cannon, the song has its roots in classical music, but the electronic style of the song maintains modern music trends, similar to those of 'Lemon Jelly'.*
 
   Soham Village College
+
+If your entry does not appear in the list above then I'm afraid that you have not made it through to the semi finals, but you can turn that frown upside down, as we are going to select random entries to win a number of Raspberry Pi 2's! 
