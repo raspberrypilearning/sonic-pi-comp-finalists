@@ -63,3 +63,25 @@ In no particular order:
 *We created this piece by trial and error. Our music is called Space Adventurers, we tested out some notes and if we liked it we put it in. We started off by looking at all of the sounds. We put them in and tested them out with loops and stuff like that. We did this because we'd get a better variety of notes and tunes. It was all about our perseverance - that's how we got to this!*
   
   Caroline Haslett Primary School, Milton Keynes
+
+1. **'Planet Pi' by Joshua Lowe**
+
+  ![](images/planet-pi.jpg)
+  
+  - [audio](audio/planet-pi.wav)
+  - [code](code/planet-pi.rb)
+  
+  *I am currently studying for my grade 1 piano, this helped me a lot when making this piece I was able to use knowledge of chords and scales. I attend Raspberry Jam Preston and Blackpool as well as coderdojo Blackpool this helps me learn programming skills. I also run a lunchtime code club at my primary school. In this piece on sonic pi I was imagined a young boy who pressed the big red button of a shuttle, he was launched into space passed shooting stars and Planet Pi then came back down again.*
+
+  St Mary Magdalen's Catholic Primary, Preston
+  
+1. **'Super Space' by Jack, Ethan & Connor**
+
+  ![](images/super-space.png)
+  
+  - [audio](audio/super-space.wav)
+  - [code](code/super-space.rb)
+  
+*Our piece of music is about someone landing on the moon; walking on the moon with a cool beat. Some lunar rovers racing with a racing car sound. There are some aliens landing sliding thud and an invasion alarm by Ethan. A parallel beat for 40 beats and some higher pitch beats by Connor that loops. Then another racing lunar rover then another person walking on the moon.*
+
+  Kilkhampton School, Cornwall
