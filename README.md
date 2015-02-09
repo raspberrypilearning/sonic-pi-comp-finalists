@@ -2,6 +2,8 @@
 
 The Sonic Pi Competition 2014/2015 Semi Finalists
 
+|                                           |                                             |
+|------------------------------------------:|:--------------------------------------------|
 | ![](images/one-small-step.jpg)            | ![](images/spcae-in-your-ears.jpg)          |
 | 'One Small Step' by Helen Towers          |  'The Space In Your Ears' by Elisa Caro     |
 |                                           |                                             |
