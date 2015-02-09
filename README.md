@@ -53,4 +53,13 @@ In no particular order:
   
   Little Green Junior School
 
-1. 
+1. **'Space Adventurers' by Sai and Vrinda**
+
+  ![](images/space-adventurers.png)
+
+  - [audio](audio/space-adventurers.wav)
+  - [code](code/space-adventurers.rb)
+  
+*We created this piece by trial and error. Our music is called Space Adventurers, we tested out some notes and if we liked it we put it in. We started off by looking at all of the sounds. We put them in and tested them out with loops and stuff like that. We did this because we'd get a better variety of notes and tunes. It was all about our perseverance - that's how we got to this!*
+  
+  Caroline Haslett Primary School, Milton Keynes
