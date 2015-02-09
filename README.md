@@ -60,7 +60,7 @@ In no particular order:
   - [audio](audio/space-adventurers.wav)
   - [code](code/space-adventurers.rb)
   
-*We created this piece by trial and error. Our music is called Space Adventurers, we tested out some notes and if we liked it we put it in. We started off by looking at all of the sounds. We put them in and tested them out with loops and stuff like that. We did this because we'd get a better variety of notes and tunes. It was all about our perseverance - that's how we got to this!*
+  *We created this piece by trial and error. Our music is called Space Adventurers, we tested out some notes and if we liked it we put it in. We started off by looking at all of the sounds. We put them in and tested them out with loops and stuff like that. We did this because we'd get a better variety of notes and tunes. It was all about our perseverance - that's how we got to this!*
   
   Caroline Haslett Primary School, Milton Keynes
 
@@ -73,7 +73,7 @@ In no particular order:
   
   *I am currently studying for my grade 1 piano, this helped me a lot when making this piece I was able to use knowledge of chords and scales. I attend Raspberry Jam Preston and Blackpool as well as coderdojo Blackpool this helps me learn programming skills. I also run a lunchtime code club at my primary school. In this piece on sonic pi I was imagined a young boy who pressed the big red button of a shuttle, he was launched into space passed shooting stars and Planet Pi then came back down again.*
 
-    St Mary Magdalen's Catholic Primary, Preston
+  St Mary Magdalen's Catholic Primary, Preston
   
 1. **'Super Space' by Jack, Ethan & Connor**
 
