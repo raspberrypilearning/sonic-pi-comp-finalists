@@ -1,6 +1,9 @@
-# sonic-pi-comp-semifinalists
+# Sonic Pi Competition 2014 - 15 Semi Finalists
 
-The Sonic Pi Competition 2014/2015 Semi Finalists
+### 'One Small Step' by Helen Towers
+![](images/one-small-step.jpg)
+A rocket takes off for the moon. It flies through space, and lands on the moon. An astronaut descends to the surface of the moon.
+
 
 |                                           |                                             |
 |------------------------------------------:|:--------------------------------------------|
