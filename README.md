@@ -28,4 +28,12 @@ In no particular order:
   
   *This music is about me and my family going to Mars. First we shoot up into the sky, then, suddenly we break through the atmosphere into the dark and lonely space. We keep going up, eventually we see random objects floating by. We now see our target: Mars. We swoosh into landing position and slowly drop down, little retro rockets stabilising us. We hit the hard, rocky and dusty ground. We made it to MARS!!!*
   
-1.   
+1. **'Alien Chase' by Hamish Starling**
+
+  ![](images/alien-chase.png)
+  
+  Little Green Junior School
+  
+  *I created the front cover using pixel art by filling squares in a pattern on a spreadsheet. In this music I am imagining an astronaut being chased by an alien. In the fast parts they are running quickly. At the end the astronaut gets shot by the alien’s ray gun. Does the astronaut survive?*
+
+1. 
