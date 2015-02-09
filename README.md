@@ -11,6 +11,8 @@ In no particular order:
   
   *A rocket takes off for the moon. It flies through space, and lands on the moon. An astronaut descends to the surface of the moon.*
 
+  Our Lady's Catholic High School, Preston.
+
 1. **'The Space In Your Ears' by Elisa Caro**
 
   ![](images/space-in-your-ears.png)
