@@ -1,4 +1,4 @@
-# Sonic Pi Competition 2014 - 15 Semi Finalists
+# Sonic Pi Competition Semi Finalists 2014/15
 
 To celebrate the launch of [Sonic Pi 2](http://www.raspberrypi.org/learning/sonic-pi-competition-2014/) we launched the inaugral Sonic Pi competition. We were looking for some of the best space-themed music, coded with Sonic Pi v2.0 by school children in the UK and we were not disapointed. 
 
