@@ -41,7 +41,18 @@ In no particular order:
   *This music is about me and my family going to Mars. First we shoot up into the sky, then, suddenly we break through the atmosphere into the dark and lonely space. We keep going up, eventually we see random objects floating by. We now see our target: Mars. We swoosh into landing position and slowly drop down, little retro rockets stabilising us. We hit the hard, rocky and dusty ground. We made it to MARS!!!*
   
   Clifton College Preparatory School
+
+1. **'Mars' by Ellie and Kimberley**
+
+  ![](images/mars.png)
   
+  - [audio](audio/mars.wav)
+  - [code](code/mars.rb)
+  
+  *First, there is a countdown… 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, blastoff!! The spacecraft zooms off into outer space. Then, the captain powers the engine up to go faster. After six months, they finally reach the sight of mars up close. Next, the proximity alarm goes off as a sign that they need to get ready to land with a sudden thump. As soon as the astronaughts set foot on the red planet, they see the sight of small, purple aliens approaching with tools of torture. Before you could say alien planet, the astronaughts dived back into the rocket and shut the door. They suddenly went into emergency liftoff.*
+
+  Kilkhampton Junior and Infant School, Cornwall  
+
 1. **'Alien Chase' by Hamish Starling**
 
   ![](images/alien-chase.png)
@@ -77,11 +88,14 @@ In no particular order:
   
 1. **'Super Space' by Jack, Ethan & Connor**
 
-  ![](images/super-space.png)
+  ![](images/super-space.jpg)
   
   - [audio](audio/super-space.wav)
   - [code](code/super-space.rb)
   
-*Our piece of music is about someone landing on the moon; walking on the moon with a cool beat. Some lunar rovers racing with a racing car sound. There are some aliens landing sliding thud and an invasion alarm by Ethan. A parallel beat for 40 beats and some higher pitch beats by Connor that loops. Then another racing lunar rover then another person walking on the moon.*
+  *Our piece of music is about someone landing on the moon; walking on the moon with a cool beat. Some lunar rovers racing with a racing car sound. There are some aliens landing sliding thud and an invasion alarm by Ethan. A parallel beat for 40 beats and some higher pitch beats by Connor that loops. Then another racing lunar rover then another person walking on the moon.*
 
-  Kilkhampton School, Cornwall
+  Kilkhampton Junior and Infant School, Cornwall
+
+
+  
