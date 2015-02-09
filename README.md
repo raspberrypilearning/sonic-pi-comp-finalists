@@ -88,7 +88,7 @@ In no particular order:
   
 1. **'Super Space' by Jack, Ethan & Connor**
 
-  ![](images/super-space.jpg)
+  ![](images/super-space.png)
   
   - [audio](audio/super-space.wav)
   - [code](code/super-space.rb)
@@ -97,5 +97,13 @@ In no particular order:
 
   Kilkhampton Junior and Infant School, Cornwall
 
+1. **'Equinox' by Absolute Magnitude (George Tuli)**
 
+  ![](images/equinox.png)
   
+  - [audio](audio/equinox.wav)
+  - [code](code/equinox.rb)
+  
+  *After hearing about the Sonic Pi 2.0 competition we (three band members) decided this was an opportunity to put our coding skills to the test, and accelerate the journey to fame of our band, Absolute Magnitude. Based on Pachelbel's Cannon, the song has its roots in classical music, but the electronic style of the song maintains modern music trends, similar to those of 'Lemon Jelly'.*
+
+  Soham Village College
