@@ -4,7 +4,7 @@ To celebrate the launch of [Sonic Pi 2](http://www.raspberrypi.org/learning/soni
 
 The competition was open to all pupils attending a UK school aged between 7 - 16 years and we placed all the entries into three categories (KS2 Primary, KS3 Middle School or Secondary, KS4 Secondary). As it turned out we had alot more primary entries than any other category, so we decided to simply select our favourite 10 from the lot!
 
-After a month of judging, we have whittled all the entries down to ust ten semi finalists. 
+After a month of judging, we have whittled all the entries down to just **ten semi finalists**. 
 
 1. **'One Small Step' by Helen Towers**
 
