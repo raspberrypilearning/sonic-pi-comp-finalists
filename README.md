@@ -1,10 +1,10 @@
-# Sonic Pi Competition Semi Finalists 2014/15
+# Sonic Pi Competition Finalists 2014/15
 
 To celebrate the launch of [Sonic Pi 2](http://www.raspberrypi.org/learning/sonic-pi-competition-2014/) we launched the inaugral Sonic Pi competition. We were looking for some of the best space-themed music, coded with Sonic Pi v2.0 by school children in the UK and we were not disapointed. 
 
 The competition was open to all pupils attending a UK school aged between 7 - 16 years and we placed all the entries into three categories (KS2 Primary, KS3 Middle School or Secondary, KS4 Secondary). As it turned out we had alot more primary entries than any other category, so we decided to simply select our favourite 10 from the lot!
 
-After a month of judging, we have whittled all the entries down to just **ten semi finalists**. 
+After a month of judging, we have whittled all the entries down to just **ten finalists**. 
 
 1. **'One Small Step' by Helen Towers**
 
