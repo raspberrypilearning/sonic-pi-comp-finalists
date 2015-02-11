@@ -116,4 +116,4 @@ After a month of judging, we have whittled all the entries down to just **ten fi
 
   Soham Village College
 
-If your entry does not appear in the list above then I'm afraid that you have not made it through to the semi-finals. But you can turn that frown upside down, as we are going to select random entries to win a number of Raspberry Pi 2's! 
+If your entry does not appear in the list above then I'm afraid that you have not made it through to the semi-finals. But you can turn that frown upside down, as we are going to select random entries to win a number of Raspberry Pi 2s! 
